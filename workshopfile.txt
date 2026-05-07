@@ -1,3 +1,5 @@
 Hey! You found me!
 
 You can mess with me as you like, add text, delete text, whatever...
+
+git add helped solved the issue when the file is modified in the repository as well.
